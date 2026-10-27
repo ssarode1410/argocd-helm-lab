@@ -1,5 +1,5 @@
 nginx:
-  replicaCount: 2
+  replicaCount: 4
   resources:
     requests:
       cpu: 100m
