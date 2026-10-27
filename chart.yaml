@@ -1,0 +1,7 @@
+apiVersion: v2
+name: my-gitops-app
+version: 1.0.0
+dependencies:
+  - name: nginx
+    version: 15.1.0
+    repository: https://charts.bitnami.com/bitnami
